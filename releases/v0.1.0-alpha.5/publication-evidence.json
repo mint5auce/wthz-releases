@@ -1,0 +1,43 @@
+{
+  "releaseManifestSHA256": "c6ff00f9b53b75d72512cd753b11c64057dacdcf99522b1d8ff8fae80643aa96",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+  },
+  "criticalValidation": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+  },
+  "cleanInstall": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "ownerAcceptedRisk": true
+  },
+  "physicalUSB": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "ownerAcceptedRisk": true
+  },
+  "independentInstall": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "ownerAcceptedRisk": true
+  },
+  "publicationApproval": {
+    "status": "passed",
+    "reviewer": "Jonathan Hadley",
+    "record": "releases/v0.1.0-alpha.5/PUBLICATION.md",
+    "instruction": "Accept these test gaps and publish (Recommended)",
+    "releaseManifestSHA256": "c6ff00f9b53b75d72512cd753b11c64057dacdcf99522b1d8ff8fae80643aa96"
+  }
+}
