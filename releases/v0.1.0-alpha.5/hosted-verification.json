@@ -1,0 +1,59 @@
+{
+  "releaseManifestSHA256": "c6ff00f9b53b75d72512cd753b11c64057dacdcf99522b1d8ff8fae80643aa96",
+  "hostingRepositoryCommit": "2afd49e1f19ce2cbd418e8b5d35795df880c0fe0",
+  "assets": [
+    {
+      "url": "https://wthz.app/updates/appcast.xml",
+      "status": 200,
+      "sha256": "af4cbed39f3db48fee1c7f099bc7721cc11b785f58cbf2e87c2f17a11956d160",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Sun, 11 Oct 2026 21:24:05 GMT",
+        "Content-Type": "application/xml; charset=utf-8",
+        "Content-Length": "1522",
+        "Cache-Control": "no-cache, max-age=0, must-revalidate",
+        "ETag": "\"22c8e88c3b6e04d089ca39c4f2577c5d\"",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      }
+    },
+    {
+      "url": "https://wthz.app/updates/WTHz-0.1.0-alpha.5-macos-arm64.md",
+      "status": 200,
+      "sha256": "3304b08b899d136f13eae9f60d5a506e40ab2f39ee6d8ede883f691aa614a87c",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Sun, 11 Oct 2026 21:24:05 GMT",
+        "Content-Type": "text/markdown; charset=utf-8",
+        "Content-Length": "4301",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "ETag": "\"9c210c45a04e0ed0d897f170734eb4c0\"",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      }
+    }
+  ],
+  "feedSignature": "passed",
+  "notesSignature": "passed",
+  "onlyNewIdentityBuild": 6,
+  "missingPath": {
+    "url": "https://wthz.app/updates/wthz-alpha5-verification-missing.xml",
+    "status": 404
+  },
+  "homepageUnchanged": true,
+  "oldFeedUnchanged": true,
+  "oldFeedFinalURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml",
+  "verificationUserAgent": "WTHz-release-verification",
+  "clientUserAgentChecks": {
+    "userAgent": "WTHz/0.1.0 Sparkle/2.10.0",
+    "feedStatus": 200,
+    "missingPathStatus": 404,
+    "actualClientUpdateInstallation": "notPerformed"
+  },
+  "defaultPythonUserAgent": {
+    "userAgent": "Python-urllib/3.14",
+    "feedStatus": 403,
+    "missingPathStatus": 403,
+    "note": "The host blocks the default Python user agent; no hosting configuration change was made."
+  }
+}

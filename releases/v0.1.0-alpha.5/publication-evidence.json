@@ -3,34 +3,34 @@
   "licenceReview": {
     "status": "passed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+    "record": "releases/v0.1.0-alpha.5/VERIFICATION.md"
   },
   "criticalValidation": {
     "status": "passed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+    "record": "releases/v0.1.0-alpha.5/VERIFICATION.md"
   },
   "packagedDecoder": {
     "status": "passed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md"
+    "record": "releases/v0.1.0-alpha.5/VERIFICATION.md"
   },
   "cleanInstall": {
     "status": "notPerformed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "record": "releases/v0.1.0-alpha.5/PUBLICATION.md",
     "ownerAcceptedRisk": true
   },
   "physicalUSB": {
     "status": "notPerformed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "record": "releases/v0.1.0-alpha.5/PUBLICATION.md",
     "ownerAcceptedRisk": true
   },
   "independentInstall": {
     "status": "notPerformed",
     "reviewer": "Codex",
-    "record": "docs/evidence/sparkle-alpha5-publication-2026-10-11.md",
+    "record": "releases/v0.1.0-alpha.5/PUBLICATION.md",
     "ownerAcceptedRisk": true
   },
   "publicationApproval": {

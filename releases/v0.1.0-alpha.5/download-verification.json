@@ -1,0 +1,51 @@
+{
+  "releaseManifestSHA256": "c6ff00f9b53b75d72512cd753b11c64057dacdcf99522b1d8ff8fae80643aa96",
+  "releaseID": 409925982,
+  "assets": [
+    {
+      "name": "WTHz-0.1.0-alpha.5-macos-arm64.dmg",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.5/WTHz-0.1.0-alpha.5-macos-arm64.dmg",
+      "status": 200,
+      "size": 22597131,
+      "sha256": "a6865bd922545d499f2873bec2d1aaf8f792433fba5b17937b43db92068a538f",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.5-Corresponding-Source.tar.gz",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.5/WTHz-0.1.0-alpha.5-Corresponding-Source.tar.gz",
+      "status": 200,
+      "size": 922627312,
+      "sha256": "1b5a99684b543ed5ac0e2261419b24d14da80ee6760581bf60c17556f4ead12f",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "release-manifest.json",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.5/release-manifest.json",
+      "status": 200,
+      "size": 485250,
+      "sha256": "c6ff00f9b53b75d72512cd753b11c64057dacdcf99522b1d8ff8fae80643aa96",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "release-notes.md",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.5/release-notes.md",
+      "status": 200,
+      "size": 3907,
+      "sha256": "4a21a9ca800d1480b38a81b4f170207019e3d003a83c68ff9a7b1cc2a5f168d9",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "SHA256SUMS",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.5/SHA256SUMS",
+      "status": 200,
+      "size": 385,
+      "sha256": "9964376428b813bb984042972d5c336a06b1ea248ab36048b29155d5d0da91ab",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    }
+  ]
+}

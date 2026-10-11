@@ -28,6 +28,8 @@ Its disposition requirement is superseded only for this exact owner-approved rel
 
 ## Publication state
 
-Release upload, anonymous downloads and final HTTPS feed verification are pending.
+The GitHub prerelease and signed feed are published.
+All five anonymous downloads, the downloaded installer and HTTPS feed checks pass.
+See [the verification record](VERIFICATION.md) for the results and client-installation limits.
 The new feed is `https://wthz.app/updates/appcast.xml`, hosted through the existing Cloudflare Pages project `wthz-app`.
 The historical WTHz-D feed and release assets stay frozen.
