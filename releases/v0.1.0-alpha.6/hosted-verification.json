@@ -1,0 +1,52 @@
+{
+  "releaseManifestSHA256": "25f877088a6a186dbea46477298642bf2cc693f0bf2338902a99613bf7a2ab9d",
+  "hostingRepositoryCommit": "4ea9d66e78d50c2a13d05310876e4cf824aa8a62",
+  "assets": [
+    {
+      "url": "https://wthz.app/updates/appcast.xml",
+      "status": 200,
+      "sha256": "8d4ce3aed9415f2ccc2c7c3f403acc4ee057ee65cdf5944d727c964a7df20e7a",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Mon, 12 Oct 2026 18:07:24 GMT",
+        "Content-Type": "application/xml; charset=utf-8",
+        "Content-Length": "2456",
+        "Cache-Control": "no-cache, max-age=0, must-revalidate",
+        "ETag": "\"b90ee95f3961d7ae5dcb627f3d7f9463\"",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      }
+    },
+    {
+      "url": "https://wthz.app/updates/WTHz-0.1.0-alpha.6-macos-arm64.md",
+      "status": 200,
+      "sha256": "1d0721f004943cec6e081a1ee295fd822deed7535a1857deffcd2542741f4728",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Mon, 12 Oct 2026 18:07:24 GMT",
+        "Content-Type": "text/markdown; charset=utf-8",
+        "Content-Length": "3989",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "ETag": "\"d58308b87288221d6e111fe5266e9264\"",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      }
+    }
+  ],
+  "feedSignature": "passed",
+  "notesSignature": "passed",
+  "newestBuild": 7,
+  "missingPath": {
+    "url": "https://wthz.app/updates/wthz-alpha6-verification-missing.xml",
+    "status": 404
+  },
+  "homepageUnchanged": true,
+  "oldFeedUnchanged": true,
+  "oldFeedFinalURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml",
+  "clientUserAgentChecks": {
+    "userAgent": "WTHz/0.1.0 Sparkle/2.10.0",
+    "feedStatus": 200,
+    "missingPathStatus": 404,
+    "actualClientUpdateInstallation": "notPerformed"
+  }
+}

@@ -15,4 +15,10 @@ On 12 October 2026, the owner selects "Accept these test gaps and publish" for t
 The three missing checks remain `notPerformed`, with separate `ownerAcceptedRisk` dispositions.
 The passed-only preflight requirement is superseded only for this exact limited alpha; all technical verification remains required.
 Manual accessibility and actual client update installation remain unverified.
-No GitHub release or Alpha 6 feed deployment is published at this checkpoint.
+The GitHub prerelease is published with all five immutable assets.
+All anonymous downloads and downloaded-installer checks pass.
+Cloudflare Pages successfully deploys the signed feed and notes.
+HTTPS bytes, signatures, headers and WTHz/Sparkle user-agent checks pass.
+The feed offers build 7 followed by build 6, without deltas.
+The existing homepage, old WTHz-D feed and build 6 notes remain unchanged.
+See [VERIFICATION.md](VERIFICATION.md) and the companion JSON records.

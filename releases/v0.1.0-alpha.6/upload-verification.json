@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "digest": "sha256:25f877088a6a186dbea46477298642bf2cc693f0bf2338902a99613bf7a2ab9d",
+      "name": "release-manifest.json",
+      "size": 485250,
+      "state": "uploaded"
+    },
+    {
+      "digest": "sha256:365a4a56d992675480ee91ca631f47f6d1a6521c28d155b135d8d14cbfc87544",
+      "name": "release-notes.md",
+      "size": 3595,
+      "state": "uploaded"
+    },
+    {
+      "digest": "sha256:d9da72872c19cf03e9f9853fe2b38671df7284e58c1ab2a93ccb0b3f758e03a4",
+      "name": "SHA256SUMS",
+      "size": 385,
+      "state": "uploaded"
+    },
+    {
+      "digest": "sha256:1d72bc8a5e1cd2a8a120cec6e44cf46d96c98c2c93e93fc2769c2aa78cc6c73b",
+      "name": "WTHz-0.1.0-alpha.6-Corresponding-Source.tar.gz",
+      "size": 923359619,
+      "state": "uploaded"
+    },
+    {
+      "digest": "sha256:486dab5b3934a37869cdc795b2cd807066b8a2ed4b71c80703173f3e85d8781b",
+      "name": "WTHz-0.1.0-alpha.6-macos-arm64.dmg",
+      "size": 23101974,
+      "state": "uploaded"
+    }
+  ],
+  "draft": true,
+  "id": 410874113
+}
