@@ -1,0 +1,44 @@
+{
+  "releaseManifestSHA256": "25f877088a6a186dbea46477298642bf2cc693f0bf2338902a99613bf7a2ab9d",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md"
+  },
+  "criticalValidation": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md"
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md"
+  },
+  "cleanInstall": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md",
+    "ownerAcceptedRisk": true
+  },
+  "physicalUSB": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md",
+    "ownerAcceptedRisk": true
+  },
+  "independentInstall": {
+    "status": "notPerformed",
+    "reviewer": "Codex",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md",
+    "ownerAcceptedRisk": true
+  },
+  "publicationApproval": {
+    "status": "passed",
+    "reviewer": "Jonathan Hadley",
+    "record": "releases/v0.1.0-alpha.6/PUBLICATION.md",
+    "instruction": "Accept these test gaps and publish",
+    "exactArtifactTestGapAcceptance": "accepted",
+    "releaseManifestSHA256": "25f877088a6a186dbea46477298642bf2cc693f0bf2338902a99613bf7a2ab9d"
+  }
+}
