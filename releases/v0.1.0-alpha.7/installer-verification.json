@@ -1,6 +1,6 @@
 {
   "releaseManifestSHA256": "2cb829be9670d7ba9194f1600afb70fec080a0bacfe8f51bab89a9c7d950b8c7",
-  "anonymousDownloadedDMG": false,
+  "anonymousDownloadedDMG": true,
   "archiveSignature": "passed",
   "DMGChecksum": "passed",
   "DMGStapledTicket": "passed",

@@ -5,8 +5,8 @@ Public downloads and complete corresponding source for a limited receive-only al
 This is not a general compatibility or production-ready build.
 
 The active application is now named WTHz, previously WTHz-D.
-The current published binary is **WTHz Alpha 6 build 7**, with the owner-selected waterfall W icon.
-Receive behaviour and data locations are unchanged from Alpha 5.
+The current published binary is **WTHz Alpha 7 build 8**, with Guided and Expert contact practice.
+Contact practice uses simulated exchanges and a separate test logbook; production transmission remains unavailable.
 
 ![Historical development mock-up of the WTHz-D workspace, showing a blue spectrum plot, decoded FT8 messages and a map](assets/workspace-development-mockup.webp)
 
@@ -14,11 +14,11 @@ Receive behaviour and data locations are unchanged from Alpha 5.
 
 ## Current published alpha
 
-Latest published release: [WTHz Alpha 6 build 7](https://github.com/mint5auce/wthz-releases/releases/tag/v0.1.0-alpha.6), with [publication verification](releases/v0.1.0-alpha.6/VERIFICATION.md).
+Latest published release: [WTHz Alpha 7 build 8](https://github.com/mint5auce/wthz-releases/releases/tag/v0.1.0-alpha.7), with [publication verification](releases/v0.1.0-alpha.7/VERIFICATION.md).
 The verification record distinguishes completed checks from unperformed checks accepted by the owner for this limited alpha.
 
 Requires Apple Silicon and macOS 27.0 or later.
-Download the Alpha 6 DMG from [Releases](https://github.com/mint5auce/wthz-releases/releases/tag/v0.1.0-alpha.6), retain your previous app and data backups, drag WTHz into Applications and select Simulator to explore without a radio.
+Download the Alpha 7 DMG from [Releases](https://github.com/mint5auce/wthz-releases/releases/tag/v0.1.0-alpha.7), retain your previous app and data backups, drag WTHz into Applications and select Simulator to explore without a radio.
 The app cannot tune the radio, assert PTT or transmit.
 Experimental Wi-Fi audio and spectrum are included; Wi-Fi FT8 remains disabled.
 Alpha 5 includes Activity filters and wanted alerts, spectrum averaging and traces, a generic receive-audio foundation, and optional PSK Reporter and WSJT-X UDP output.

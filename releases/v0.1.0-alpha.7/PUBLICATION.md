@@ -14,7 +14,13 @@ The signed feed is prepared with builds 8, 7 and 6 and preserves the existing en
 
 Clean-install, physical USB, independent-install, full manual accessibility and actual client update installation are not performed.
 On 31 October 2026 the owner selects "Accept these gaps and publish" for this exact release manifest and limited-alpha audience.
-The missing observations remain unperformed, with separate owner risk acceptance.
+The acceptance covers clean-install, physical USB, independent-install and full manual accessibility for this exact manifest.
+Those observations remain unperformed; actual client update installation also remains unperformed.
 The strict passed-only preflight requirement is superseded for this artifact only; all technical checks remain required.
-Release upload, anonymous download and live feed verification are pending at this metadata checkpoint.
+The GitHub prerelease is published with five verified immutable assets.
+All anonymous downloads and downloaded-installer checks pass.
+Cloudflare Pages deploys the feed-only commit `80b5575911bf0341a0e748fc3037e5449a965884` successfully.
+The live signed feed and notes match staging, and both existing and new Sparkle client requests verify.
+The feed lists builds 8, 7 and 6, with the older entries and notes unchanged.
+The homepage is unchanged except for generated Astro island IDs; historical WTHz-D feed bytes remain unchanged.
 No owner installation, private-data transfer, physical qualification or phase advancement is claimed.

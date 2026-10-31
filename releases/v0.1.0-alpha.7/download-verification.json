@@ -1,0 +1,51 @@
+{
+  "releaseManifestSHA256": "2cb829be9670d7ba9194f1600afb70fec080a0bacfe8f51bab89a9c7d950b8c7",
+  "releaseID": 430014914,
+  "assets": [
+    {
+      "name": "WTHz-0.1.0-alpha.7-macos-arm64.dmg",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.7/WTHz-0.1.0-alpha.7-macos-arm64.dmg",
+      "status": 200,
+      "size": 23452113,
+      "sha256": "f60052aab601d1fd7bb222db92fedc9ac628dbf20fb6bf20bc220cdca989f44d",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.7-Corresponding-Source.tar.gz",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.7/WTHz-0.1.0-alpha.7-Corresponding-Source.tar.gz",
+      "status": 200,
+      "size": 1002631913,
+      "sha256": "138bc0e566c30063e580266e79da7b4b06e350b88a34fc4a7a1c29a87d9d0641",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "release-manifest.json",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.7/release-manifest.json",
+      "status": 200,
+      "size": 485250,
+      "sha256": "2cb829be9670d7ba9194f1600afb70fec080a0bacfe8f51bab89a9c7d950b8c7",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "release-notes.md",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.7/release-notes.md",
+      "status": 200,
+      "size": 4337,
+      "sha256": "70d7630aeaae04fc4498eaabc27e75c598ee3cee9c2109f954d02ec14c72fd6c",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    },
+    {
+      "name": "SHA256SUMS",
+      "url": "https://github.com/mint5auce/wthz-releases/releases/download/v0.1.0-alpha.7/SHA256SUMS",
+      "status": 200,
+      "size": 385,
+      "sha256": "9f3d1c00df29b8d5299fdd3bf42b4ae9de25058f694c2c59f29808fcd16747d6",
+      "githubDigestMatches": true,
+      "anonymousDownloadMatches": true
+    }
+  ]
+}
