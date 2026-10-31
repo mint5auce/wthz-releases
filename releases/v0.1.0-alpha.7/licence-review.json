@@ -1,0 +1,17 @@
+{
+  "reviewer": "Codex",
+  "sourceCommit": "125f581e89aafd7f8c12abb4dc9bce38e3850976",
+  "installedLicenceFiles": 1768,
+  "licenceInventoryMatchesAlpha6": false,
+  "newDistributedThirdPartyBinaries": false,
+  "runtimeMachOFiles": 16,
+  "newArtwork": "owner-approved built-in image generation mockups, retained in corresponding source",
+  "developmentHelper": "RTL-SDR source foundations are included; no new RTL-SDR runtime is packaged",
+  "changedLicenceRecords": [
+    "DEPENDENCY_REGISTER.md",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "changeReview": "Reviewed GPL-2.0-or-later librtlsdr and LGPL-2.1-or-later libusb notices for isolated development source; neither runtime is installed in the app.",
+  "status": "passed",
+  "releaseManifestSHA256": "2cb829be9670d7ba9194f1600afb70fec080a0bacfe8f51bab89a9c7d950b8c7"
+}
