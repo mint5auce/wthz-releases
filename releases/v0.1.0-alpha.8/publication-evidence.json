@@ -1,0 +1,50 @@
+{
+  "releaseManifestSHA256": "2ef3bbf94d6197762a9b7d26532817c28e765692ef305f766eb7bb2b42402067",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md"
+  },
+  "criticalValidation": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md"
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md"
+  },
+  "cleanInstall": {
+    "status": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md",
+    "ownerAcceptedRisk": true
+  },
+  "physicalUSB": {
+    "status": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md",
+    "ownerAcceptedRisk": true
+  },
+  "independentInstall": {
+    "status": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md",
+    "ownerAcceptedRisk": true
+  },
+  "manualAccessibility": {
+    "status": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md",
+    "ownerAcceptedRisk": true
+  },
+  "publicationApproval": {
+    "status": "passed",
+    "reviewer": "Jonathan Hadley",
+    "record": "docs/evidence/sparkle-alpha8-publication-2026-11-02.md",
+    "instruction": "Accept these gaps and publish",
+    "exactArtifactTestGapAcceptance": "accepted",
+    "releaseManifestSHA256": "2ef3bbf94d6197762a9b7d26532817c28e765692ef305f766eb7bb2b42402067"
+  }
+}

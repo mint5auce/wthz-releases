@@ -1,0 +1,18 @@
+{
+  "releaseManifestSHA256": "2ef3bbf94d6197762a9b7d26532817c28e765692ef305f766eb7bb2b42402067",
+  "anonymousDownloadedDMG": false,
+  "archiveSignature": "passed",
+  "DMGChecksum": "passed",
+  "DMGStapledTicket": "passed",
+  "DMGGatekeeper": "passed",
+  "readOnlyMountedInventory": "matchesExactReleaseManifest",
+  "applicationBundleIdentifier": "app.wthz.mac",
+  "applicationBuild": "9",
+  "applicationSignature": "passed",
+  "applicationStapledTicket": "passed",
+  "applicationGatekeeper": "passed",
+  "applicationsShortcut": "passed",
+  "cleanInstall": "notPerformed",
+  "physicalUSB": "notPerformed",
+  "independentInstall": "notPerformed"
+}
