@@ -19,3 +19,16 @@ Exact clean-install, physical USB, independent-install and full manual accessibi
 Actual client update installation remains unperformed.
 The owner accepted these exact-artifact gaps and authorised publication on 2 November 2026.
 The unperformed tests remain separately recorded and are not represented as passed.
+
+## Completed publication
+
+The Alpha 8 prerelease is public with five immutable assets.
+All server-side upload hashes and lengths and all anonymous download hashes match.
+The downloaded installer passes its Sparkle signature, checksum, stapled tickets, Gatekeeper and read-only mounted inventory checks.
+Cloudflare Pages successfully deployed feed-only commit `f747619410a061663dccff300ae8da2d34e7737e` in project `wthz-app`.
+The live signed feed and note match staging bytes and pass MIME, cache and missing-path checks.
+Sparkle user agents for builds 8 and 9 receive the expected feed and HTTP 404 for a missing update path.
+The feed retains builds 9, 8 and 7 without deltas, and the retained old entries are unchanged.
+All historical hosted release notes are unchanged.
+The homepage differs only in generated Astro island identifiers, and the frozen historical WTHz-D feed is byte-identical.
+The accepted test gaps remain unperformed.

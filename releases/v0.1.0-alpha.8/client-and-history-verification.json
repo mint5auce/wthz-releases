@@ -1,0 +1,43 @@
+{
+  "userAgents": [
+    {
+      "userAgent": "WTHz/8 Sparkle/2.10.0",
+      "feedStatus": 200,
+      "feedMatches": true,
+      "missingPathStatus": 404
+    },
+    {
+      "userAgent": "WTHz/9 Sparkle/2.10.0",
+      "feedStatus": 200,
+      "feedMatches": true,
+      "missingPathStatus": 404
+    }
+  ],
+  "previousNotes": [
+    {
+      "name": "WTHz-0.1.0-alpha.5-macos-arm64.md",
+      "sha256": "3304b08b899d136f13eae9f60d5a506e40ab2f39ee6d8ede883f691aa614a87c",
+      "unchanged": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.6-macos-arm64.md",
+      "sha256": "1d0721f004943cec6e081a1ee295fd822deed7535a1857deffcd2542741f4728",
+      "unchanged": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.7-macos-arm64.md",
+      "sha256": "f51ac9246b3c1c3541ef97c2ae6913a1d92da8f243d0fd8d7416f4b21d31c3a1",
+      "unchanged": true
+    }
+  ],
+  "retainedEntriesUnchanged": [
+    "8",
+    "7"
+  ],
+  "feedVersions": [
+    "9",
+    "8",
+    "7"
+  ],
+  "noDeltas": true
+}

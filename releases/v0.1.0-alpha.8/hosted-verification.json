@@ -1,0 +1,62 @@
+{
+  "releaseManifestSHA256": "2ef3bbf94d6197762a9b7d26532817c28e765692ef305f766eb7bb2b42402067",
+  "hostingRepositoryCommit": "f747619410a061663dccff300ae8da2d34e7737e",
+  "assets": [
+    {
+      "url": "https://wthz.app/updates/appcast.xml",
+      "status": 200,
+      "sha256": "4fe2634bcaa691c4a5f1378e56ad35195342e174d60db3867473b024d7a19ce3",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Mon, 02 Nov 2026 14:58:40 GMT",
+        "Content-Type": "application/xml; charset=utf-8",
+        "Content-Length": "3398",
+        "Connection": "close",
+        "x-content-type-options": "nosniff",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PvoPZPwGjsNchj1MTRSTfbnrU44yXsWQxAEStBErb9WXpBFZJXuBUufDMJ3PyGkY2sLjsoi%2BTLC7ZWlXv%2BAFMml%2BPIoI7MllL7rDOTEXaQ7azoEpK8FHEbiRUw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "no-cache, max-age=0, must-revalidate",
+        "ETag": "\"8e30c3aab0ebb8cbbf8f4b79450846aa\"",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC",
+        "CF-RAY": "a543ffaa9d5f0ec9-LHR",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    },
+    {
+      "url": "https://wthz.app/updates/WTHz-0.1.0-alpha.8-macos-arm64.md",
+      "status": 200,
+      "sha256": "779cf4bb93247731d81f0b9ff0709464d42f550150e7979b172e8442b262bdb6",
+      "matchesSignedStaging": true,
+      "headers": {
+        "Date": "Mon, 02 Nov 2026 14:58:41 GMT",
+        "Content-Type": "text/markdown; charset=utf-8",
+        "Content-Length": "4223",
+        "Connection": "close",
+        "x-content-type-options": "nosniff",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=i7UVOwtIWp7s8WBfxvIzIJs7ULupoN4p4U7qB9UARcUKk6P93wxOEL2R4%2FKvfz2D4vfP%2FApJ0ZBltnwMqrwqfZLhnEsJBRGihBhCChBa7WUEA0w1uptZvNj2Rw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "ETag": "\"96b44bd760db62575fb245695ff117c3\"",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC",
+        "CF-RAY": "a543ffad1943ced6-LHR",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ],
+  "feedSignature": "passed",
+  "notesSignature": "passed",
+  "newestBuild": 9,
+  "missingPath": {
+    "url": "https://wthz.app/updates/wthz-alpha8-verification-missing.xml",
+    "status": 404
+  },
+  "homepageUnchangedExceptGeneratedAstroIslandIDs": true,
+  "oldFeedUnchanged": true,
+  "oldFeedFinalURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml"
+}

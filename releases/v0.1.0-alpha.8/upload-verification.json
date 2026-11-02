@@ -1,0 +1,35 @@
+{
+  "releaseID": 431587250,
+  "assets": [
+    {
+      "name": "release-manifest.json",
+      "sha256": "2ef3bbf94d6197762a9b7d26532817c28e765692ef305f766eb7bb2b42402067",
+      "size": 485250,
+      "githubDigestMatches": true
+    },
+    {
+      "name": "release-notes.md",
+      "sha256": "7914e364f94e872742d2622adfc58bc2fcfa81231110be52be4bda872446291d",
+      "size": 3829,
+      "githubDigestMatches": true
+    },
+    {
+      "name": "SHA256SUMS",
+      "sha256": "bce4081e6a72f733f550a2b496f767d6e65bb4194d55a7ce075c84fcdfd4d102",
+      "size": 385,
+      "githubDigestMatches": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.8-Corresponding-Source.tar.gz",
+      "sha256": "4e8b739caa923dba8479aca7afd5d2adb81294089603081c3fe6826d82dcae7e",
+      "size": 1018676349,
+      "githubDigestMatches": true
+    },
+    {
+      "name": "WTHz-0.1.0-alpha.8-macos-arm64.dmg",
+      "sha256": "0b3b81fda2f5f48628ed3cb7cb496508197c00bcae748007abad76aa1ce85cdd",
+      "size": 21347590,
+      "githubDigestMatches": true
+    }
+  ]
+}
